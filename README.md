@@ -6,7 +6,7 @@ I like using quantitative tools to understand real-world systems, whether that m
 
 ## Current Focus
 
-- Security analysis across equities, credit, and fixed income
+- Security analysis across equities, and fixed income
 - Applied mathematics, especially linear algebra, probability, and econometrics
 - Financial modeling, valuation, and portfolio concepts
 - Python-based project work for finance and mathematical modeling
